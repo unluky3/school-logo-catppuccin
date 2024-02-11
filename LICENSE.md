@@ -1,4 +1,4 @@
-# Ліцензія на проект "school logo catppuchin"
+# Ліцензія на проект "school logo catppuccin"
 
 Цей проект ліцензується відповідно до [Ліцензії Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
 
