@@ -1,9 +1,12 @@
+
 # Проект "school logo catppuccin"
 
 У папці 'school logo' знаходяться шість варіацій логотипів:
+
 # Проект "school logo catppuchcin"
 <img src="https://github.com/unluky3/school-logo-catppuchin/assets/154826504/98560fd1-1f98-4456-98e6-60fec1736d8a.png" width=100% height="100">
 У папці 'school logo catppuccin' знаходяться чотири варіації логотипів для школи:
+
 
 Вони поділені на дві папки "latte" та "machiato", які відповідають світлій та темній темам відповідно, відображаючи міцність кави.
 
